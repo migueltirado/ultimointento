@@ -1,0 +1,276 @@
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Mario\OneDrive\Documents\MTP\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Mario\OneDrive\Escritorio\LoginMVC34\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+C:\Users\Alumno\Documents\alam\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+C:\Users\Alumno\Documents\alam\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+C:\Users\Alumno\Documents\alam\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Alumno\Documents\alam\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Alumno\Documents\alam\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+C:\Users\Alumno\Documents\alam\LoginMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Alumno\Documents\alam\LoginMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Admin\Documents\ALAM\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete
+F:\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+F:\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+F:\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+F:\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.dll
+F:\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+F:\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+F:\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CoreCompileInputs.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.dll
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+F:\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CoreCompileInputs.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Hector181095\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\Mizuki\Desktop\proyectoCRUDMVC\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\LoginMVC.deps.json
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.json
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\LoginMVC.runtimeconfig.dev.json
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\LoginMVC.Views.dll
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\bin\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.csprojAssemblyReference.cache
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cache
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.RazorAssemblyInfo.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfoInputs.cache
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.AssemblyInfo.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.input.cache
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.TagHelpers.output.cache
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.RazorCoreGenerate.cache
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.Views.pdb
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.dll
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.pdb
+C:\Users\ASSA ABLOY CANCUN\Downloads\Jess\obj\Debug\netcoreapp2.2\LoginMVC.csproj.CopyComplete

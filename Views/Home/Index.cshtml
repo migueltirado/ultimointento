@@ -1,0 +1,131 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.a {
+    text-align: right;
+} 
+
+* {
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    padding-top: 30px;
+}
+
+/* Botón de apertura */
+.open-button {
+    background-color: #555;
+    letter-spacing: 10px;
+    color: white;
+    padding: 20px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.5;
+    position: fixed;
+    bottom: 3%;
+    right: 28px;
+    width: 97%;
+}
+
+/* Formulario emergente */
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 35%;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+
+/* Contenedor del formulario */
+.form-container {
+    max-width: 450px;
+    padding: 5%;
+    background-color: white;
+}
+
+/* Anchos de campos de entrada */
+.form-container input[type=text], .form-container input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 20px 0 35px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+/* Estilo de boton Entrar/Cancelar */
+.form-container .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 15px;
+    opacity: 0.8;
+}
+
+/* Boton Cancelar */
+.form-container .cancel {
+    background-color: red;
+}
+
+/* Efecto de opacidad en los botones */
+.form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+}
+
+</style>
+
+<div class="text-center">
+   <div class="container">
+       @{
+           if(!string.IsNullOrEmpty(ViewBag.Message))
+           {
+               <div class="alert alert-danger">@ViewBag.Message</div>
+           }
+       }
+
+    <button class="open-button" onclick="abrir()">ABRIR FORMULARIO</button>
+
+    <div class="form-popup a" id="form">
+    <form action ="/Home/Login" method="post" class="form-container">
+        <h1>LOGIN</h1>
+
+        <label for="user"><b>Nombre de usuario:</b></label>
+        <input type="text" placeholder="Ingresar username" name="user" autofocus>
+
+        <label for="pasw"><b>Contraseña:</b></label>
+        <input type="password" placeholder="Ingresar contraseña" name="password">
+
+        <button type="submit" class="btn" id="btnIngresar">Entrar</button>
+        <button type="button" class="btn cancel" onclick="cancelar()">Cancelar</button>
+    </form>
+    </div>
+
+    <script>
+    function abrir() {
+    document.getElementById("form").style.display = "block";
+    }
+
+    function cancelar() {
+    document.getElementById("form").style.display = "none";
+    }
+    </script>
+
+</div>
+</div>

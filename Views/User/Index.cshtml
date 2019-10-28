@@ -1,0 +1,53 @@
+@model List<MVC_users.Models.Usuariosnomrer>
+@{
+    ViewData["Title"] = "Usuarios";
+}
+<p>
+    <a asp-action="Create" class="glyphicon glyphicon-plus">Crear Usuario</a>
+</p>
+<div class="text-center">
+    <h1 class="display-4">Tabla Usuarios</h1>   
+</div>
+
+<div style="text-align:center;"  >
+@if(Model!=null)
+{
+    <table border="1" style="border-spacing:0;border-collapse:collapse;width:70%;margin:auto">
+        <tr>
+            <th>ID</th>
+            <th>USER</th>
+            <th>NAME</th>
+            <th>PASS</th>                
+            <th>ROLENAME</th>
+            <th>ACTION</th>
+        </tr>
+        <tbody>
+            @foreach (MVC_users.Models.Usuariosnomrer  item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Id
+                    </td>
+                    <td>
+                        @item.Userid
+                    </td>
+                    <td>
+                        @item.Nombre
+                    </td>
+                    <td>
+                        @item.Pass
+                    </td>
+                    <td>
+                        @item.nombrerol
+                    </td>
+                     <td  >
+                <a asp-action="Edit" asp-route-id="@item.Id">EDIT</a> |
+             
+                <a asp-action="Delete" asp-route-id="@item.Id">DELETE</a>
+            </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+</div>

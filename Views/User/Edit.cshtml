@@ -1,0 +1,51 @@
+@model MVC_users.Models.Usuarios
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Usuarios</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+     <form asp-action="SaveEdit" method="post">
+         <input type="hidden" name="id" id="id" value="@Model.Id"/>
+     <div class="form-group">
+             USUARIO:<input type="text" name="userid" id="userid" class="form-control" value="@Model.Userid"/>
+            </div>
+            <div class="form-group">
+            NOMBRE:<input type="text" name="nombreuser" id="nombreuser" class="form-control"  value="@Model.Nombre"/>
+            </div>
+              <div class="form-group">
+            PASS:<input type="text" name="passuser" id="passuser" class="form-control" value="@Model.Pass"/>
+            </div>
+           
+            
+               <div class="form-group" >        
+                <div class="alert-danger" asp-validation-summary="ModelOnly"></div>  
+                <div  style="width:350px;">  
+                    <label   class="control-label">Roles</label>  
+                    <select  id="idr" name="idr" 
+                      class="form-control"   
+                      asp-items="@(new SelectList(@ViewBag.ListofRoles,"idroles", "nombrerol"))">  
+                    </select>  
+                </div>  
+            
+        </div>  
+  
+            <div class="form-group">
+            <button type="submit" >Actualizar</button>
+            </div>
+  </form>
+</div>
+ 
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
